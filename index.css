@@ -74,7 +74,8 @@ body {
 
 .audio-container {
     width: 100%;
-    max-width: 400px;
+    max-width: 317px;
+
     margin: 20px auto;
     padding: 15px;
     border: 2px solid #e0e0e0;
